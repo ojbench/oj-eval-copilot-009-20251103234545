@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/vector_six.dir/data/six/code.o -o vector_six 

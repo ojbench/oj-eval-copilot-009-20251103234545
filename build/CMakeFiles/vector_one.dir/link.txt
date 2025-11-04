@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/vector_one.dir/data/one/code.o -o vector_one 

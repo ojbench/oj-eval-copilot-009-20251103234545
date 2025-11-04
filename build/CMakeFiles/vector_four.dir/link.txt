@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/vector_four.dir/data/four/code.o -o vector_four 

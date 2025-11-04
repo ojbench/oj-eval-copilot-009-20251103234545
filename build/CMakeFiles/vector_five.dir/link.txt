@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/vector_five.dir/data/five/code.o -o vector_five 
